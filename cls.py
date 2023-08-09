@@ -24,3 +24,4 @@ b = B("Keeart","Singh",37)
 c = C("Mukesh","Kaur",36,"4th Grade","Programer")
 
 print(c.fullinfo())
+print(c.infor())
